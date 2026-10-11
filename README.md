@@ -108,8 +108,8 @@ FROM 'zepto_v2.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8
 ## How to Run
 
 ```bash
-git clone https://github.com/dwivediansh7/zepto-sql-analysis.git
-cd zepto-sql-analysis
+git clone https://github.com/rawbeas/zeptonalyse.git
+cd zeptonalyse
 ```
 
 1. Open pgAdmin or any PostgreSQL client
